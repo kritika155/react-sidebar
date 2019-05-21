@@ -63,3 +63,6 @@ body {
 .bm-overlay {
   background: rgba(0, 0, 0, 0.3);
 }
+.up {
+  margin-top: 50px
+}
